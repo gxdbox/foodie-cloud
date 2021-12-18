@@ -1,0 +1,3 @@
+com\imooc\user\service\impl\UserServiceImpl.class
+com\imooc\user\service\impl\AddressServiceImpl.class
+com\imooc\user\service\impl\center\CenterUserServiceImpl.class

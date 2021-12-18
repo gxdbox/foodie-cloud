@@ -1,0 +1,7 @@
+com\imooc\user\controller\center\CenterController.class
+com\imooc\user\controller\AddressController.class
+com\imooc\user\UserApplication.class
+com\imooc\user\controller\PassportController.class
+com\imooc\user\resource\FileUpload.class
+com\imooc\user\exception\CustomExceptionHandler.class
+com\imooc\user\controller\center\CenterUserController.class

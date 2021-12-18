@@ -1,0 +1,7 @@
+com\imooc\item\mapper\ItemsCommentsMapper.class
+com\imooc\item\mapper\ItemsMapperCustom.class
+com\imooc\item\mapper\ItemsCommentsMapperCustom.class
+com\imooc\item\mapper\ItemsSpecMapper.class
+com\imooc\item\mapper\ItemsMapper.class
+com\imooc\item\mapper\ItemsParamMapper.class
+com\imooc\item\mapper\ItemsImgMapper.class

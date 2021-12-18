@@ -1,0 +1,10 @@
+com\imooc\item\pojo\ItemsParam.class
+com\imooc\item\pojo\ItemsComments.class
+com\imooc\item\pojo\vo\ShopcartVO.class
+com\imooc\item\pojo\vo\ItemInfoVO.class
+com\imooc\item\pojo\ItemsImg.class
+com\imooc\item\pojo\vo\ItemCommentVO.class
+com\imooc\item\pojo\vo\MyCommentVO.class
+com\imooc\item\pojo\Items.class
+com\imooc\item\pojo\ItemsSpec.class
+com\imooc\item\pojo\vo\CommentLevelCountsVO.class

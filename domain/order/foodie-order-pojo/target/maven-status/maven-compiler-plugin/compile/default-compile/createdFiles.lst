@@ -1,0 +1,11 @@
+com\imooc\order\pojo\bo\SubmitOrderBO.class
+com\imooc\order\pojo\vo\MySubOrderItemVO.class
+com\imooc\order\pojo\vo\MerchantOrdersVO.class
+com\imooc\order\pojo\vo\MyOrdersVO.class
+com\imooc\order\pojo\bo\center\OrderItemsCommentBO.class
+com\imooc\order\pojo\vo\OrderVO.class
+com\imooc\order\pojo\Orders.class
+com\imooc\order\pojo\bo\PlaceOrderBO.class
+com\imooc\order\pojo\OrderStatus.class
+com\imooc\order\pojo\OrderItems.class
+com\imooc\order\pojo\vo\OrderStatusCountsVO.class

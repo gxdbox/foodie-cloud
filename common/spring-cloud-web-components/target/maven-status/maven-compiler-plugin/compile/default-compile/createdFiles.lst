@@ -1,0 +1,4 @@
+com\imooc\config\Swagger2.class
+com\imooc\config\WebMvcConfig.class
+com\imooc\config\CorsConfig.class
+com\imooc\controller\BaseController.class

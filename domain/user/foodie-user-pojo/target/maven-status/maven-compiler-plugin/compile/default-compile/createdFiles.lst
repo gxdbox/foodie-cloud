@@ -1,0 +1,5 @@
+com\imooc\user\pojo\bo\center\CenterUserBO.class
+com\imooc\user\pojo\bo\UserBO.class
+com\imooc\user\pojo\bo\AddressBO.class
+com\imooc\user\pojo\UserAddress.class
+com\imooc\user\pojo\Users.class

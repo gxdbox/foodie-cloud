@@ -1,0 +1,4 @@
+com\imooc\order\mapper\OrderStatusMapper.class
+com\imooc\order\mapper\OrdersMapper.class
+com\imooc\order\mapper\OrderItemsMapper.class
+com\imooc\order\mapper\OrdersMapperCustom.class
